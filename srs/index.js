@@ -4,7 +4,6 @@ import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
-import './index.tsx';
 import './index.scss';
 import App from './app';
 import { Provider } from './context';
